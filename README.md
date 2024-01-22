@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 
 It's now includs steps for GitHub
 The second changes
+
+test new line
